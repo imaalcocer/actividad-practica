@@ -1,0 +1,60 @@
+.tarjeta{
+    border: 2px solid rgb(247, 181, 40);
+    width: 300px;
+    padding:15px;
+}
+.tarjeta img{
+    width: 200px;
+    height: 230px;
+}
+.titulo-tarjeta{
+    text-aling:center;
+    font-weight: 800;
+    padding-bottom:20px;
+    border-bottom: 1px solid rgb(90, 89, 30);
+    padding: 15px;
+}
+.tarjeta div{
+    padding:15px;
+}
+.descripcion{
+    text-aling: justify;
+}
+.precio{
+    text-aling:center;
+}
+button{
+    background-color: rgb(125, 198, 240);
+    color: aliceblue;
+
+
+    .tarjeta1{
+        border: 2px solid rgb(247, 181, 40);
+        width: 300px;
+        padding:15px;
+        flex-wrap: wrap;
+    }
+    .tarjeta img{
+        width: 200px;
+        height: 230px;
+        right: 30px;
+    }
+    .titulo-tarjeta{
+        text-aling:center;
+        font-weight: 800;
+        padding-bottom:20px;
+        border-bottom: 1px solid rgb(90, 89, 30);
+        padding: 15px;
+    }
+    .tarjeta div{
+        padding:15px;
+    }
+    .descripcion{
+        text-aling: justify;
+    }
+    .precio{
+        text-aling:center;
+    }
+    button{
+        background-color: rgb(125, 198, 240);
+        color: aliceblue;
